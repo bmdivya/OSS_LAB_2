@@ -1,3 +1,3 @@
 # OSS_LAB_2
 
-# This Java project calculates the perimeter and surface area of the closed geometrical shapes.
+# This Java project calculates the perimeter, surface area and volume of the closed geometrical shapes.
